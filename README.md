@@ -1,6 +1,9 @@
 # Exercise-04c-Enemies
 
 ## Implementation
+[+1] Multiple Levels
+[+1] Character can wall-jump
+
 
 ## References
 
