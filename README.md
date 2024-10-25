@@ -4,8 +4,9 @@
 [+1] Multiple Levels
 [+1] Character can wall-jump
 [+1?] Parallax Backgrounds?
-[+1/+2] Sense of Level Progression (early game compared to later) 
+[+1/+2] Sense of Level Progression (early game compared to later) early levels are easier whereas later levels are longer with more enemies. 
 [+1] Larger Levels (the later ones)
+[+1] Music added (one track for the forest and one track for the desert)
 
 
 
