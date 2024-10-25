@@ -3,6 +3,11 @@
 ## Implementation
 [+1] Multiple Levels
 [+1] Character can wall-jump
+[+1?] Parallax Backgrounds?
+[+1/+2] Sense of Level Progression (early game compared to later) 
+[+1] Larger Levels (the later ones)
+
+
 
 
 ## References
